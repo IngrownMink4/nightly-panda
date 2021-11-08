@@ -7,4 +7,4 @@ If you have any suggestions, tell me in the comments! All the feedback is welcom
 This is what it looks like in:
 Windows|GNU/Linux
 ---|---
-![Windows](firefox_h15Yn2UJwY.png)|![GNU/Linux](nightlywaytheme08-11-2021.png)
+![Windows](1TYXceHlIM.png)|![GNU/Linux](nightlywaytheme08-11-2021.png)
