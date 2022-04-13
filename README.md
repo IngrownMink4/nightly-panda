@@ -4,12 +4,12 @@ A new, modern and futuristic theme, inspired in Firefox Nightly's design.
 Did you enjoy my first theme? Try the new version, Nightly Way To Surf The Web v2 🎉 
 If you have any suggestions, tell me in the comments! All the feedback is welcomed! 🦊🔥
 
-This is what it looks like in:
+This is what it looks like using:
 Windows|GNU/Linux
 ---|---
 ![Windows](1TYXceHlIM.png)|![GNU/Linux](nightlywaytheme08-11-2021.png)
 
-# License
+## License
 
 Copyright © 2022 Sergio Varela
 
